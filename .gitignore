@@ -6,3 +6,5 @@ phpunit
 /css
 /*.js
 /angularjs
+/zips
+/PHPMailer
